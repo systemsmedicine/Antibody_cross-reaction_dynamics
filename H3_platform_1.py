@@ -19,7 +19,7 @@ import csv
 
 #______________________________________________________________________________
 Indicator = '1'
-NOAb=100                   # Number of B cells 
+NOAb=10000                   # Number of B cells 
 """           
                            
                            Variable 
