@@ -17,4 +17,4 @@ Output: 'Abs_total_platform_1.csv'- is Abs counts,
         
 Further details: https://www.biorxiv.org/content/10.1101/2020.01.06.896274v1
 
-Cite the corresponding tool as follows: Hernandez-Mejia G. and Hernandez-Vargas E.A., Uncovering antibody cross-reaction dynamics in influenza A infections, 2020.
+*Cite the corresponding tool as follows*: Hernandez-Mejia G. and Hernandez-Vargas E.A., Uncovering antibody cross-reaction dynamics in influenza A infections, 2020.
